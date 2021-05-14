@@ -16,3 +16,6 @@ const findTwoSum = function (nums, target) {
 };
 
 console.log(findTwoSum(numsArray, targetToFind));
+
+// OUTPUT
+// [ 3, 4 ]
